@@ -1,0 +1,44 @@
+body
+{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+main
+{
+    width: 100%;
+    margin: 25px;
+    text-align: left;
+    overflow: hidden;
+}
+h1{
+    text-align: center;
+    margin: 25px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(65, 32, 211);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: green;
+}
+.navbar li{
+    float: left;
+}
+p{
+    margin: 25px;
+    padding: 0 150px;
+    text-align: center;
+}
